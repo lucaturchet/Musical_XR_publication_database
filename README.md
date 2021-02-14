@@ -4,4 +4,5 @@ The field of Extended Reality (XR) applied to music has evolved significantly ov
 
 In an effort to organize the knowledge accumulated in previous technical and experimental studies on works at the intersection of Music and XR, we have created a freely available dataset of scientific publications in this space and prepared an in-depth analysis covering work between 2011 and 2020. We prepared this analysis using a list of conceptual dimensions belonging to technical, artistic, perceptual and methodological domains. 
 
-More details are available on L. Turchet, R. Hamilton & A. Çamcı (2021). Music in extended realities. IEEE Access (submitted).
+More details are available on Turchet, L., Hamilton, R., & Çamci, A. (2021). Music in Extended Realities. IEEE Access, 9, 15810-15832.
+PDF freely downloadable at https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9328440
